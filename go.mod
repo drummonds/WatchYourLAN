@@ -2,6 +2,8 @@ module github.com/aceberg/WatchYourLAN
 
 go 1.23.1
 
+replace github.com/aceberg/WatchYourLAN => github.com/drummonds/WatchYourLAN
+
 require (
 	github.com/containrrr/shoutrrr v0.8.0
 	github.com/gin-gonic/gin v1.10.0
