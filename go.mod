@@ -2,7 +2,7 @@ module github.com/aceberg/WatchYourLAN
 
 go 1.23.1
 
-replace github.com/aceberg/WatchYourLAN => github.com/drummonds/WatchYourLAN
+replace github.com/aceberg/WatchYourLAN => ./WatchYourLAN
 
 require (
 	github.com/containrrr/shoutrrr v0.8.0
