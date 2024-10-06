@@ -1,4 +1,4 @@
-module github.com/drummonds/WatchYourLAN
+module github.com/drummonds/WatchYourLAN/v2
 
 go 1.23.1
 
