@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/aceberg/WatchYourLAN/internal/models"
+	"github.com/drummonds/WatchYourLAN/internal/models"
 )
 
 func hostHandler(c *gin.Context) {

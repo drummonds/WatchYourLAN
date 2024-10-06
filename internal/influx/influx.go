@@ -7,10 +7,10 @@ import (
 	"log/slog"
 	"strings"
 
-	"github.com/influxdata/influxdb-client-go/v2"
+	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 
-	"github.com/aceberg/WatchYourLAN/internal/check"
-	"github.com/aceberg/WatchYourLAN/internal/models"
+	"github.com/drummonds/WatchYourLAN/internal/check"
+	"github.com/drummonds/WatchYourLAN/internal/models"
 )
 
 // Add - write data to InfluxDB2

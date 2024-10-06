@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 
-	"github.com/aceberg/WatchYourLAN/internal/models"
+	"github.com/drummonds/WatchYourLAN/internal/models"
 )
 
 // Create - create DB if not exists

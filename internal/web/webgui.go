@@ -7,8 +7,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/aceberg/WatchYourLAN/internal/check"
-	"github.com/aceberg/WatchYourLAN/internal/conf"
+	"github.com/drummonds/WatchYourLAN/internal/check"
+	"github.com/drummonds/WatchYourLAN/internal/conf"
 )
 
 // Gui - start web server

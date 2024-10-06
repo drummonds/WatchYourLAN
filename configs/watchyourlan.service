@@ -1,6 +1,6 @@
 [Unit]
 Description=watchyourlan
-Documentation=https://github.com/aceberg/WatchYourLAN
+Documentation=https://github.com/drummonds/WatchYourLAN
 After=network-online.target
 Wants=network-online.target
 

@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/viper"
 
-	"github.com/aceberg/WatchYourLAN/internal/check"
-	"github.com/aceberg/WatchYourLAN/internal/models"
+	"github.com/drummonds/WatchYourLAN/internal/check"
+	"github.com/drummonds/WatchYourLAN/internal/models"
 )
 
 // Get - get app config

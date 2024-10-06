@@ -3,7 +3,7 @@ package web
 import (
 	"log/slog"
 
-	"github.com/aceberg/WatchYourLAN/internal/db"
+	"github.com/drummonds/WatchYourLAN/internal/db"
 )
 
 func updateRoutines() {

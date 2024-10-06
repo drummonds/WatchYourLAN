@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aceberg/WatchYourLAN/internal/check"
-	"github.com/aceberg/WatchYourLAN/internal/models"
+	"github.com/drummonds/WatchYourLAN/internal/check"
+	"github.com/drummonds/WatchYourLAN/internal/models"
 )
 
 var arpArgs string

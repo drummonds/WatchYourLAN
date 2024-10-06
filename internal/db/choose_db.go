@@ -3,7 +3,7 @@ package db
 import (
 	"log/slog"
 
-	"github.com/aceberg/WatchYourLAN/internal/models"
+	"github.com/drummonds/WatchYourLAN/internal/models"
 )
 
 // Data to connect to DB
